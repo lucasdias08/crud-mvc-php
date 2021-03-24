@@ -18,6 +18,7 @@ Funcionalidades:
 ## Tecnologias
 - HTML5, CSS3 JavaScript, PHP e SQLite3;
 - Bootstrap
+- SESSIONS, superglobals $_FILES, $_POST e $_GET
 
 ### Executando localmente
 - Sistema foi desenvolvido, testado e avaliado com a plataforma de gerenciamento de sistemas web XAMPP. Devido isso, recomendo testar usando o XAMPP
